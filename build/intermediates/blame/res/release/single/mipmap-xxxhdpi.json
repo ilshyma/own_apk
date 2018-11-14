@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\anti.png",
+        "source": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\anti.png"
+    },
+    {
+        "merged": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\player.png",
+        "source": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\player.png"
+    },
+    {
+        "merged": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\tits.png",
+        "source": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\tits.png"
+    },
+    {
+        "merged": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\D\\Work\\2018.08.03\\111\\android-advApp-master_hideIcon\\android-advApp-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

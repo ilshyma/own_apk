@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:10:5-46:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Михаил\.android\build-cache\959a6dce3076d32f5c27368c3d425dc13832e1e8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Михаил\.android\build-cache\8895e09170016aed7ba3f278a01272beecd84736\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Михаил\.android\build-cache\8a6e3964c2023204ada06869991f5376e41879e4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Михаил\.android\build-cache\a52c318340e330adb449a208f053ea79bb70ba77\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Михаил\.android\build-cache\06e333eb9d44923a162b5715bb6af8bae690bb08\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Михаил\.android\build-cache\e3796dda9dac1daeb14132d872e524b6b75eea51\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Михаил\.android\build-cache\10fdf0d3e51e2ed604df9667541c9f974cd852dc\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Михаил\.android\build-cache\66ab776306733c566578414844fdbbd0da648849\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Михаил\.android\build-cache\9298928a1a1cda4407ce8252c430702ce8135404\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Михаил\.android\build-cache\dc01b970d902011c1cbc5c56e974ddfbdaa20ec7\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:12:9-36
+	android:theme
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.asti.myapplication.MainActivity
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:label
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:19:13-45
+	android:supportsRtl
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:21:13-39
+	android:noHistory
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:20:13-39
+	android:allowBackup
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:17:13-39
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:18:13-71
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.asti.myapplication.AlarmActivity
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:label
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:29:13-43
+	android:noHistory
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:31:13-39
+	android:theme
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:28:13-72
+receiver#com.example.asti.myapplication.AutoStart
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:34:9-39:20
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:34:19-74
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:35:13-38:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:36:25-76
+category#android.intent.category.DEFAULT
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:37:27-73
+receiver#com.example.asti.myapplication.AlarmRec
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:41:9-45:20
+	android:name
+		ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:41:19-73
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml:42:13-44:29
+uses-sdk
+INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Михаил\.android\build-cache\959a6dce3076d32f5c27368c3d425dc13832e1e8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Михаил\.android\build-cache\8895e09170016aed7ba3f278a01272beecd84736\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Михаил\.android\build-cache\8a6e3964c2023204ada06869991f5376e41879e4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Михаил\.android\build-cache\a52c318340e330adb449a208f053ea79bb70ba77\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Михаил\.android\build-cache\06e333eb9d44923a162b5715bb6af8bae690bb08\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Михаил\.android\build-cache\e3796dda9dac1daeb14132d872e524b6b75eea51\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Михаил\.android\build-cache\10fdf0d3e51e2ed604df9667541c9f974cd852dc\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Михаил\.android\build-cache\66ab776306733c566578414844fdbbd0da648849\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Михаил\.android\build-cache\9298928a1a1cda4407ce8252c430702ce8135404\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Михаил\.android\build-cache\dc01b970d902011c1cbc5c56e974ddfbdaa20ec7\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Михаил\.android\build-cache\959a6dce3076d32f5c27368c3d425dc13832e1e8\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\D\Work\2018.08.03\111\android-advApp-master_hideIcon\android-advApp-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Михаил\.android\build-cache\959a6dce3076d32f5c27368c3d425dc13832e1e8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Михаил\.android\build-cache\8895e09170016aed7ba3f278a01272beecd84736\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Михаил\.android\build-cache\8a6e3964c2023204ada06869991f5376e41879e4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Михаил\.android\build-cache\a52c318340e330adb449a208f053ea79bb70ba77\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Михаил\.android\build-cache\06e333eb9d44923a162b5715bb6af8bae690bb08\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Михаил\.android\build-cache\e3796dda9dac1daeb14132d872e524b6b75eea51\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Михаил\.android\build-cache\10fdf0d3e51e2ed604df9667541c9f974cd852dc\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Михаил\.android\build-cache\66ab776306733c566578414844fdbbd0da648849\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Михаил\.android\build-cache\9298928a1a1cda4407ce8252c430702ce8135404\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Михаил\.android\build-cache\959a6dce3076d32f5c27368c3d425dc13832e1e8\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Михаил\.android\build-cache\959a6dce3076d32f5c27368c3d425dc13832e1e8\output\AndroidManifest.xml:26:9-47

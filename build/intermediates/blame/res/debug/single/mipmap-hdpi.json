@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/star/android_project/android-advApp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/star/android_project/android-advApp-master/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/star/android_project/android-advApp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/player.png",
+        "source": "/home/star/android_project/android-advApp-master/app/src/main/res/mipmap-hdpi/player.png"
+    },
+    {
+        "merged": "/home/star/android_project/android-advApp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/anti.png",
+        "source": "/home/star/android_project/android-advApp-master/app/src/main/res/mipmap-hdpi/anti.png"
+    },
+    {
+        "merged": "/home/star/android_project/android-advApp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/tits.png",
+        "source": "/home/star/android_project/android-advApp-master/app/src/main/res/mipmap-hdpi/tits.png"
+    },
+    {
+        "merged": "/home/star/android_project/android-advApp-master/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/star/android_project/android-advApp-master/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
