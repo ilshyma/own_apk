@@ -2,7 +2,7 @@
 manifest
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:2:1-49:12
 	package
-		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:3:5-45
+		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:3:5-30
 		INJECTED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml
 		INJECTED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -49,7 +49,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/star/
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:12:9-36
 	android:theme
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:14:9-40
-activity#com.example.asti.myapplication.MainActivity
+activity#com.own.apk.app.MainActivity
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:16:9-26:20
 	android:label
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:19:13-45
@@ -60,7 +60,7 @@ ADDED from /home/star/android_project/android-advApp-master/app/src/main/Android
 	android:allowBackup
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:17:13-39
 	android:name
-		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:18:13-71
+		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:18:13-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:22:13-25:29
 action#android.intent.action.MAIN
@@ -71,7 +71,7 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:24:27-74
-activity#com.example.asti.myapplication.AlarmActivity
+activity#com.own.apk.app.AlarmActivity
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:27:9-32:20
 	android:label
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:29:13-43
@@ -80,11 +80,11 @@ ADDED from /home/star/android_project/android-advApp-master/app/src/main/Android
 	android:theme
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:30:13-44
 	android:name
-		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:28:13-72
-receiver#com.example.asti.myapplication.AutoStart
+		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:28:13-57
+receiver#com.own.apk.app.AutoStart
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:34:9-39:20
 	android:name
-		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:34:19-74
+		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:34:19-59
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:35:13-38:29
 action#android.intent.action.BOOT_COMPLETED
@@ -95,10 +95,10 @@ category#android.intent.category.DEFAULT
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:37:17-76
 	android:name
 		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:37:27-73
-receiver#com.example.asti.myapplication.AlarmRec
+receiver#com.own.apk.app.AlarmRec
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:41:9-45:20
 	android:name
-		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:41:19-73
+		ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:41:19-58
 intent-filter#android.intent.action.BOOT_COMPLETED
 ADDED from /home/star/android_project/android-advApp-master/app/src/main/AndroidManifest.xml:42:13-44:29
 uses-sdk

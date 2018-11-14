@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.asti.myapplication;
+package com.own.apk.app;
 
 public final class R {
     public static final class anim {

@@ -1,7 +1,7 @@
 /**
  * Automatically generated file. DO NOT MODIFY
  */
-package com.example.asti.myapplication;
+package com.own.apk.app;
 
 public final class BuildConfig {
   public static final boolean DEBUG = false;
